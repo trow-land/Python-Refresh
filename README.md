@@ -1,10 +1,10 @@
 # Python Refresh
 
-Welcome to my Python Refresh repository. This repository is detailing scripts I used to brush up on my Python programming skills, from the basics of the language to more advanced concepts, including object-oriented programming.
+This repository is detailing scripts I used to brush up on my Python programming skills, from the basics of the language to more advanced concepts, including object-oriented programming.
 
-As I have not formally covered all of the concepts of python before, more used to implement machine learning scripts without understanding the fundematal points of the language I thought it was import to go back to basics.
+As I had not pragmattically covered python from the basics before implementing machine learning algorithms I thought it would be benefitial to revisit concepts from the basics.
 
-Each Python script included in this repository demonstrates a specific topic or feature of Python, showcasing my understanding and ability to use it. The code is written clearly and concisely, making it easy to understand and follow.
+Each Python script included in this repository demonstrates a specific topic or feature of Python, showcasing my understanding and ability to use it. The code is written clearly and concisely, making it easy to understand and follow. Commenting in parts is additional to what is adviced in the PEP8 guidelines because these scripts were writting explicitely for learning. 
 
 Here's a brief rundown of the repository's contents:
 
@@ -15,7 +15,7 @@ Here's a brief rundown of the repository's contents:
 5. `check_duplicates.py` - A simple script to check for duplicates in a list.
 6. `condition_logic.py` - Examples of conditional logic in Python.
 7. `DataTypes.py` - Overview of Python's basic data types.
-8. `dictionaries.py` - Working with dictionaries, a fundamental Python data structure.
+8. `dictionaries.py` - Working with dictionaries, a Python data structure.
 9. `Expressions_vs_statements.py` - A brief illustration distinguishing expressions from statements.
 10. `for_loops.py` - Demonstrates usage of `for` loops.
 11. `functions.py` - Basic function definitions and calls.
@@ -32,4 +32,6 @@ Here's a brief rundown of the repository's contents:
 22. `walrus_operator.py` - Example demonstrating the use of the 'walrus operator' (assignment expressions) introduced in Python 3.8.
 23. `while_loops.py` - Example of a `while` loop in Python.
 
-Feel free to explore the scripts, provide feedback, and reach out to me if you have any queries. Happy coding!
+Feel free to explore the scripts and provide feedback.
+
+Thanks
