@@ -4,7 +4,7 @@ This repository is detailing scripts I used to brush up on my Python programming
 
 As I had not pragmattically covered python from the basics before implementing machine learning algorithms I thought it would be benefitial to revisit concepts from the basics.
 
-Each Python script included in this repository demonstrates a specific topic or feature of Python, showcasing my understanding and ability to use it. The code is written clearly and concisely, making it easy to understand and follow. Commenting in parts is additional to what is adviced in the PEP8 guidelines because these scripts were writting explicitely for learning. 
+Each Python script included in this repository demonstrates a specific topic or feature of Python, showcasing my understanding and ability to use it. The code is written clearly and concisely, making it easy to understand and follow. Commenting in parts is additional to what is adviced in the PEP8 guidelines because these scripts were written explicitely for learning. 
 
 Here's a brief rundown of the repository's contents:
 
